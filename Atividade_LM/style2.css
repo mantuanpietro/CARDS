@@ -1,0 +1,72 @@
+*{  margin: 0;
+    padding:0;
+    font-family: monospace;
+    text-align: justify;
+}
+
+body{
+    background-color: #000;
+    background-image: url(https://images3.alphacoders.com/654/654784.jpg);
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+
+  header{   
+    padding: 15px;
+    background-color:#f56200;
+}
+
+main{
+    padding: 20px;
+}
+
+.sobretudo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 35px;
+    justify-content: space-evenly;
+}
+
+
+.container{
+  padding: 115px;
+  width: 400px;
+  height: 350px;
+  text-align: start;
+  margin: 1px 720px 210px;
+}
+
+h2{
+    padding: 10px;
+    color: #ffffff;
+}
+
+
+     
+     
+    button {
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        outline: none;
+        border: 0;
+        vertical-align: middle;
+        text-decoration: none;
+        background: transparent;
+        padding: 25px;
+        font-size: inherit;
+        font-family: inherit;
+        left: 90px;
+        opacity: 0;
+       }
+       
+    
+
+    p{
+        text-align: center;
+        color: #fff;
+        font-size: 35px;
+    }
