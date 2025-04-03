@@ -58,9 +58,9 @@ h2{
         text-decoration: none;
         background: transparent;
         padding: 25px;
-        font-size: inherit;
+        font-size: 90px;
         font-family: inherit;
-        left: 90px;
+        right:75px;
         opacity: 0;
        }
        
